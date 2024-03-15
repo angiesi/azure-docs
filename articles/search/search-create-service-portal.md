@@ -186,13 +186,19 @@ Azure AI Search restricts the [number of resources](search-limits-quotas-capacit
 
 1. Sign in to the Azure portal and find your search service.
 
-1. On the left-navigation pane, scroll down and select **New Support Request.**
+1. On the left-navigation pane, scroll down and select **Support + Troubleshooting.**
+
+1. Type **Quota management** and then click **Go**
+
+1. Edit the answer of **Which service are you having an issue with** and select **Service and subscription limits (quotas)** and click Next.
+
+1. Click in "Create a support request".
 
 1. In **Issue type**, choose **Service and subscription limits (quotas).**
 
 1. Select the subscription that needs more quota.
 
-1. Under **Quota type**, select **Search** and then select **Next**.
+1. Under **Quota type**, select **Azure AI Search** and then select **Next**.
 
 1. In the **Problem details** section, select **Enter details**.
 
